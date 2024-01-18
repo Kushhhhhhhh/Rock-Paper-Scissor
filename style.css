@@ -41,8 +41,8 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3rem; /* Decreased the gap for smaller screens */
-    margin-top: 4rem; /* Decreased the margin for smaller screens */
+    gap: 2rem; /* Decreased the gap for smaller screens */
+    margin-top: 3rem; /* Decreased the margin for smaller screens */
 }
 
 .score-board {
@@ -56,11 +56,11 @@ img {
 
 #user-score,
 #bot-score {
-    font-size: 4rem; /* Adjusted font size for smaller screens */
+    font-size: 3rem; /* Adjusted font size for smaller screens */
 }
 
 .msg-container {
-    margin-top: 3rem;
+    margin: 3rem;
 }
 
 #msg {
