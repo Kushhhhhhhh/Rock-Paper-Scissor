@@ -102,8 +102,9 @@ img {
     }
 
     #msg {
-        font-size: 1.2rem;
-        padding: 0.5rem;
+        
+        font-size: 1rem;
+        padding: 1rem;
         border-radius: 0.5rem;
     }
 

@@ -20,7 +20,7 @@ const showWinner = (userWin, userChoice, botChoice) => {
      } else {
         botScore++;
         botScore_span.innerHTML = botScore;
-        msg.innerText = `You lost. Bot's ${botChoice} beats your ${userChoice}`;
+        msg.innerText = `You lost. ${botChoice} beats your ${userChoice}`;
         msg.style.backgroundColor = "red";
      }
 }
